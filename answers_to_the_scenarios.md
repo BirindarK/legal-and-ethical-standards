@@ -33,13 +33,24 @@ The new mobile game Treasure Hunters has been taking the country by storm. Playe
 The developers have been taken aback by the success of the game and are struggling to keep up with demand. They have had to spin up more servers and are looking to hire more engineers to keep working on content. That costs money though, and they are looking to monetise the game. Instead of adding new maps daily they will continually be adding more which players can unlock by completing existing maps. Players will be able to spend their points to unlock hints which will help them progress faster. Hints will also be available to purchase using real-world money, with the possibility of offering multi-buy discounts at a later date.
 
 #### Is the company breaking any laws with their proposal?
+Legally, the company is currently not breaking any laws with their proposal.
+
+However, following the implementation of their proposal they need to consider consumer protection laws, data protection regulations, and advertisement regulations to protect new and future consumers. 
 
 
 #### What are the ethical concerns with the company's proposal?
+The monetization of the game introduces an unfair advantages to users who are able to afford the in-game purchases, as it allows those users to progress faster in the game over those who can't afford the in-game purchases.
 
+The purchase of hints using real-world money can introduce users to gambling habits since it can attract players to consistently pay for hints to progress further in the game. 
+
+The monetization of the game and the constant updates to the game to add new features that players can unlock through in-game purchases could potentially lead to addictive behaviours. 
 
 #### What could the company do to address these issues?
+Firstly, the company can ensure that the monetization of the game does not give those who can afford in-game purchases unfair advantages over those who cannot, however, still maintain value to the user. For example, paying for a new outfit for the game characters.
 
+Secondly, the company can implement responsible gaming practices, such as limiting in-game purchases and reminders to take breaks, to prevent the negative impact of excessive gaming for users. 
+
+Finally, engaging with users by asking for user feedback and concerns about the games monetization strategies, and be open to making adjustments based on user preferences and ethical considerations.
 
 ### Scenario 3
 
