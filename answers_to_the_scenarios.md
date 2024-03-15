@@ -59,9 +59,22 @@ Finally, engaging with users by asking for user feedback and concerns about the 
 Their development plans involve adding a premium membership which will lock many of the existing features behind a paywall. Free users will only be able to view limited versions of profiles and have a daily cap on the number of matches which can be made. Premium users, on the other hand, will now have more specific location settings and be able to filter their matches. To advertise the premium service the free-tier users will be given occasional "trial periods" of the premium tier followed by adverts showing them what they could unlock by subscribing. Additionally the generic banner ads will be replaced by more targeted advertising for local businesses. Users' location data will be shared in order to ensure relevant businesses are being advertised.
 
 #### Is the company breaking any laws with their proposal?
+The ablitiy to share a users' location with third party advertisers and companies may violate data protection laws if the user has not consented for them to share that data.
 
+The company running friends.com must clearly communicate to users the terms of the premium membership, to ensure they do not engage in unfair practices.
+
+The company must ensure with the replacement of generic ads with more targeted advertising should comply with relevant advertising regulations.
 
 #### What are the ethical concerns with the company's proposal?
+Sharing users' location data with advertisers without clear consent will violate user trust and raises privacy concerns.
 
+The trial period of premium features along with the targeted ads could be seen as misleading and manipulative as it would attract free users to subscribe as premium users.
+
+The restriction of features for free users, offering them limited access to the site, could create inequality between free and premium users since the free users would be unable to fully participate in the site. 
 
 #### What could the company do to address these issues?
+Firstly, the company could adjust the feature access for free users to ensure that they are still able to have meaningful access to friends.com without feeling disadvantaged to the premium users.
+
+Secondly, they could be transparent and provide clear information about the advantages of the premium membership without manipulating the free users with only using trial periods.
+
+Finally, they could gain explicit consent from users before sharing their location data with advertisers. Also provide clear details on how their data can be used and allow users to contorl their privacy through their profile settings.
